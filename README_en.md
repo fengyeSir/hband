@@ -1,7 +1,7 @@
 # H Band Personal Information Protection and Privacy Policy
 
 
-Latest update: December 10, 2021
+Latest update: April 9, 2024
 
 In order to fully protect your rights, we have updated the "H Band Personal Information Protection and Privacy Policy". This version of the update mainly focuses on:
 
@@ -12,7 +12,7 @@ In order to fully protect your rights, we have updated the "H Band Personal Info
 
 # Overview
 
-Welcome to H Band! H Band is a free application developed by Jiafu Zhang (hereinafter referred to as "H Band", "we","us","our service" or "our product").
+Welcome to H Band! H Band is a free application developed by Shenzhen Veepoo Technology Co., LTD (hereinafter referred to as "H Band", "we","us","our service" or "our product").
 
 Our privacy policy will elaborate on how we collect and use your personal information when you use our products and services, as well as the information control we provide you and the measures we take to protect information security.
 
@@ -403,7 +403,9 @@ The substantial changes referred to in this "Personal Information Protection and
 
 If you have any questions, comments, suggestions about this "Personal Information Protection and Privacy Policy" and our handling of your personal information, or if you find that your personal information may be leaked, please contact us through the following methods:
 
-1. Contact us via email: hbandservice@outlook.com.
+Shenzhen Veepoo Technology Co., LTD
+Address: A1-505, Building A, Keyuan Road No.15 Kexing Science Park, Yuehai Street, Nanshan District, Shenzhen, Guangdong Province, China
+Email: hbandservice@outlook.com 
 
 For issues related to this policy or personal information protection, we will respond to your request within 15 working days after receiving your information.
 
@@ -466,5 +468,3 @@ For issues related to this policy or personal information protection, we will re
 
 
 (End)
-
-Jiafu Zhang
