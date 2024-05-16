@@ -12,7 +12,7 @@ Latest update: April 9, 2024
 
 **Unless you have read and accept all terms specified in this agreement, you may not download, install or use the software and related services. Any behavior including downloading, installing, using, logging in, etc. shall be deemed that you have read and agreed to the terms of the Agreement. **
 
-**If you are a minor under 14 years old, do not use H Band Lite; if you are over 14 years old but under 18 years old, please read the Agreement with your legal guardian, and pay special attention to the terms of use for minors. Minors between 14 and 8 years of age can use H Band Lite only after obtaining a guardian's consent. **
+**If you are a minor under 6 years old, do not use H Band Lite; if you are over 6 years old but under 18 years old, please read the Agreement with your legal guardian, and pay special attention to the terms of use for minors. Minors between 6 and 18 years of age can use H Band Lite only after obtaining a guardian's consent. **
 
 
 
@@ -95,7 +95,7 @@ The service content refers to the software for health data viewing and managemen
 
 6.5 Without your consent, H Band Lite will not disclose your personal information to any company, organization or individual other than H Band Lite, except as otherwise provided by laws and regulations.
 
-6.6 H Band Lite attaches great importance to the protection of personal information of minors. If you are a minor under the age of 14, please do not use this software. If you are a minor under the age of 14 but under 18, you should obtain the written consent of your parent or legal guardian before using the services of H Band Lite.
+6.6 H Band Lite attaches great importance to the protection of personal information of minors. If you are a minor under the age of 6, please do not use this software. If you are a minor under the age of 6 but under 18, you should obtain the written consent of your parent or legal guardian before using the services of H Band Lite.
 
 6.7 For how H Band Lite collects, uses, stores and protects your personal information and what rights you have, you can also read the "H Band Lite Personal Information Protection and Privacy Policy" for further understanding.
 

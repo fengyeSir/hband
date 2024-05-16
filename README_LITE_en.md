@@ -57,7 +57,7 @@ The length of time we retain your information depends on the type of information
 
 According to laws and regulations, you have the right to access, export, edit, correct, transmit, restrict processing, and delete personal information. You also have the right to object to our use of your information and to exercise legal and legitimate rights and interests with respect to the information of deceased relatives.
 
-At the same time, if you are a minor under 14 years of age, please do not use our products and services; if you are over 14 years old but under 18 years of age, you need to obtain a guardian's explicit instructions before using our products and services Agree; if you are the guardian of a minor, when you have any questions about the personal information of the minor you are guarding, please contact us through the method in "13. Contact Us".
+At the same time, if you are a minor under 6 years of age, please do not use our products and services; if you are over 6 years old but under 18 years of age, you need to obtain a guardian's explicit instructions before using our products and services Agree; if you are the guardian of a minor, when you have any questions about the personal information of the minor you are guarding, please contact us through the method in "13. Contact Us".
 
 
 
